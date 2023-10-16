@@ -1,6 +1,6 @@
 # Capybara-Recruitment-System
 ## Capy Capy
-<img src="https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg">
+<img src="https://i.redd.it/0hgbx636otjb1.jpg">
 
 
 TEAM LEADER: TAN YEE YANG
