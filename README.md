@@ -21,5 +21,4 @@ xx
 https://www.sciencedirect.com/science/article/pii/S2666285X21001011
 
 ### LEON NOOB
-<br>
 cyka blyat
