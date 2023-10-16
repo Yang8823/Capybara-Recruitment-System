@@ -1,5 +1,7 @@
 # Capybara-Recruitment-System
 ## Capy Capy
+![Uploading image.png…]()
+
 
 TEAM LEADER: TAN YEE YANG
 CAPYBARAS: LEON LOO, EAJUN OOI
