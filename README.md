@@ -1,6 +1,6 @@
 # Capybara-Recruitment-System
 ## Capy Capy
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.rainforest-alliance.org%2Fspecies%2Fcapybara%2F&psig=AOvVaw1KeZd_NoEdKKRrgFXzKofv&ust=1697527071021000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDwmKiD-oEDFQAAAAAdAAAAABAF">
+<img src="https://www.rainforest-alliance.org/wp-content/uploads/2021/06/capybara-square-1.jpg.optimal.jpg">
 
 
 TEAM LEADER: TAN YEE YANG
