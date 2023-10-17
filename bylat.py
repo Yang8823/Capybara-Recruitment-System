@@ -20,7 +20,7 @@ def process_cv_image(image_path):
 
     return extracted_text
 
-# Example usage:
-cv_image_path = "CV_ResumeExample.jpg"
+# Example usage with your CV image path:
+cv_image_path = r'Image/CV_Image2.jpg'
 cv_text = process_cv_image(cv_image_path)
 print(cv_text)
