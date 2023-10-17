@@ -21,6 +21,6 @@ def process_cv_image(image_path):
     return extracted_text
 
 # Example usage:
-cv_image_path = "path_to_cv_image.jpg"
+cv_image_path = "CV_ResumeExample.jpg"
 cv_text = process_cv_image(cv_image_path)
 print(cv_text)
