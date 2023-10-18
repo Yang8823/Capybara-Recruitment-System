@@ -25,5 +25,5 @@ class ImageReader:                                                              
 
 if __name__ == '__main__':
     ir = ImageReader(OS.Windows)
-    text = ir.extract_text('Image/CV_ResumeExample.jpg', lang='eng')
+    text = ir.extract_text('Image/CV_Image2.jpg', lang='eng')
     print(text)
