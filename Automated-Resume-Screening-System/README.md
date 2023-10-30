@@ -28,6 +28,7 @@ Used recommendation engine techniques such as Collaborative , Content-Based filt
 * Mirror : https://drive.google.com/open?id=17M9oDPip5JFFFNJhDCBQKy8BMqoyxajU
 
 
+
 ## Running localhost
 
 * Run `pip install -r requirements.txt` to install dependencies
