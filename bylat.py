@@ -1,3 +1,4 @@
+
 import pytesseract
 from PIL import Image
 import cv2
@@ -49,4 +50,5 @@ cv_image_path = r'Image/CV_Image2.jpg'
 cv_text = process_cv_image(cv_image_path)
 
 # Display the image rating
+
 print(f"Image Rating: {image_rating}")

@@ -1,17 +1,31 @@
-import pyresparser
 
-# Specify the path to the resume file
-resume_path = "science-cs-egr-resumes.pdf"  # Replace with the actual path to your resume
+from PIL import Image
+import pytesseract
+import enum
 
-# Extract information from the resume
-data = pyresparser.from_path(resume_path)
+class OS(enum.Enum):                                                            #setup for Mac or Windows
+    Mac = 0
+    Windows = 1
 
-# Access the extracted data
-print("Name:", data['name'])
-print("Email:", data['email'])
-print("Phone Number:", data['mobile_number'])
-print("Skills:", data['skills'])
-print("Education:", data['education'])
-print("Work Experience:", data['experience'])
+class Languages(enum.Enum):                                                     #to add languages
+    ENG = 'eng'
+    RUS = 'rus'
+    ITA = 'ita'
 
-pyresparser.cleanup()
+class ImageReader:                                                              #setup for tesseract
+    def __init__(self, os: OS):
+        if os == OS.Windows:                                                    #if mac need to add elif
+            windows_path = r'C:/Program Files/Tesseract-OCR/tesseract.exe'      
+            pytesseract.tesseract_cmd = windows_path
+            print('Running on Windows')
+
+    def extract_text(self, image: str, lang: str) -> str:                       #extract the image into string and the ouput will also be string
+        img = Image.open(image)
+        extracted_text = pytesseract.image_to_string(img, lang=lang)
+        return extracted_text
+
+if __name__ == '__main__':
+    ir = ImageReader(OS.Windows)
+    text = ir.extract_text('Image/CV_ResumeExample.jpg', lang='eng')
+    print(text)
+
