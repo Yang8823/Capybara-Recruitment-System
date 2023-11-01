@@ -1,3 +1,4 @@
+
 from PIL import Image
 import pytesseract
 import enum
@@ -27,3 +28,4 @@ if __name__ == '__main__':
     ir = ImageReader(OS.Windows)
     text = ir.extract_text('Image/CV_ResumeExample.jpg', lang='eng')
     print(text)
+

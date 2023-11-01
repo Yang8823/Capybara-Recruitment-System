@@ -1,0 +1,351 @@
+Sample Science, Computer Science and Engineering Resumes
+This document offers several examples of resumes for science, engineering, or computer science
+opportunities. Note that the information provided, the categories used, and the language style in
+each example varies based upon field/discipline and specific job or internship opportunities.
+When applying to technical Research Assistant positions or similar roles, an extended resume or
+Curriculum Vitae (CV) may be appropriate, provided you have sufficient relevant experience to fill
+more than 1 page. A CV should prioritize information about your publications, presentations,
+research experience, and technical skills. Review the CVs of researchers or faculty you admire or seek
+to work with (generally available online), as these often provide good examples to follow.
+We encourage applicants to partner every resume or CV with a brief cover letter to provide a
+prospective employer with important context for your experiences (particularly your research work)
+and to communicate your interest and familiarity with the specific opportunity.
+Connect with the Lazarus Center for Career Development for assistance with your resumes, cover
+letters, or any aspect of your search. To schedule an appointment with a Career Adviser, contact us
+at 413-585-2582 or visit our office.
+
+Sample Science, Computer Science and Engineering Resumes – Rev 05/15
+Smith College Lazarus Center for Development
+
+HUONG (LUCY) YANG
+Box 0000, 1 Chapin Way, Northampton, MA 01063
+978.937.2222 | huyang@smith.edu
+EDUCATION
+Smith College, Northampton, MA
+Bachelor of Science, Engineering Science, emphasis in Mechanics, May 2015
+
+GPA: 3.60
+
+Relevant Coursework: Engineering Design Clinic, Simulation and Modeling, Signals and Systems, Technological Risk
+Assessment, Statistics for Engineers, Mechanical Vibrations, Failure Analysis, Introduction to Hydrosystems Engineering
+SKILLS
+Technical: MATLAB, Minitab, Neural Networks, ARIMA modeling, familiar with C programming and AutoCAD
+Languages: Fluent Spanish; Conversational Portuguese
+EXPERIENCE
+Engineering Design Clinic, Smith College Picker Engineering Program (Sept 2014 - May 2015)
+Project Sponsor: Kollmorgen Electro-Optical, Northampton, MA
+ Researched current Lean Design practices in engineering industries
+ Worked with 3 Design Clinic team members to analyze design processes, identify inefficiencies and
+recommended improvements based on Lean Design principles
+ Co-managed $5,000 project budget, ensured all project deliverables were completed on-time
+ Collaborated extensively with Kollmorgen employees and management
+ Developed and presented project deliverables and final recommendations to project sponsor staff
+Smith College Picker Engineering Program – Research Intern (June 2013 - May 2014)
+ Developed workshop for middle and high school teachers to teach about engineering design and ways to apply in
+engineering principles in classrooms
+ Developed engineering activities for inclusion in novel to introduce engineering concepts to students grades 7-12
+ Co-authored ASEE conference paper and poster
+Engineering Laboratory of Dr. Jack Jones, Smith College – Teaching Assistant (Sept 2012 - May 2013)
+ Prepared materials for professor and students for use in lab sessions
+ Assisted professor in answering questions and resolving issues during the laboratory
+Curriculum Planning Committee, Smith College – Student Member (Sept 2012 - May 2013)
+ Organized logistics for and participated in meetings with faculty
+ Served as liaison between committee and student body
+ACTIVITIES AND LEADERSHIP
+Society of Women Engineers (SWE) – Smith College Student Chapter (2013 - present)
+Co-President (2014 - 2015); Vice President & Technology Director (2013 - 2014)
+ Served as liaison between Smith College faculty and administrators and SWE chapter members
+ Applied for grant and Student Government Association funding
+ Planned engineering outreach events
+Engineering World Health – Smith College Student Chapter (2013 - 2014)
+Vice-President
+ Aided with chartering of Smith College chapter
+Sample Science, Computer Science and Engineering Resumes – Rev 05/15
+Smith College Lazarus Center for Development
+
+Abigail Berns
+
+4998 Battery Lane, Apt 304, Bethesda, MD 20814 • 585.747.4774 • abby.berns@gmail.com
+Education
+Smith College, Northampton MA
+Bachelor of Arts in Biological Sciences May 2014
+GPA: 3.8/4.0
+Honors: Awarded STRIDE research scholarship with Dr. Steven Jackson
+King’s College London, School of Biomedical and Health Sciences, 1/2013-6/2013
+Junior Semester Abroad
+Research / Laboratory Experience
+Research Fellow, Laboratory of Parasitic Diseases
+National Institute of Allergy and Infectious Disease, NIH, Bethesda, MD 8/2014-present
+• Recipient of Intramural Research Training Award
+• Manage care and treatment of 40 rats, including injection and assistance during MRI
+• Quantitative analysis of experimental data
+• Develop rat infection model for Taenia crassiceps
+• Perform steriotaxic neurosurgery on rats to implant Taenia crassiceps metacestodes
+• Design and present academic and experimental results
+Research Assistant, Summer Research Fellows Program
+Biology Department, Smith College 5/2012-12/2012
+• Developed test to quantify biofilm formation of UTI-causing E. coli
+• Trained and supervised first year research student
+Community Health Experience
+Intern, Communicable Disease Control Division, Boston Public Health Commission 6/2014-8/2014
+• Adjusted state response survey to meet cultural needs of specific immigrant community during
+epidemiological investigation of an outbreak of foodborne illness
+• Interacted with wide range of multi-ethnic, low-income patients while performing intake at free
+tuberculosis clinic
+• Researched and created fact sheets for general public on pandemic influenza in infants and children
+• Developed focus group oral questionnaire and written survey on community health practices
+surrounding pandemic flu
+Intern, Clinical Serology Lab, Strong Memorial Hospital, Rochester, NY 6/2013-8/2013
+• Handled HIV-positive sera, confirming accuracy of rapid HIV kits
+• Tracked confidential patient records for a New York State HIV study
+Publication
+White, C. A. L. Berns, and S. Smith 2013. Low temperature (15 °C) increases expression of biofilm-, cold-shockand RpoS-dependent genes in Escherichia coli. Microbiology; 150: 130-142.
+Leadership Experience
+Co-Chair/Religious Co-Chair, Smith College Hillel 9/2012-5/2014
+• Conducted weekly meetings, delegated board member responsibilities, coordinated communications,
+organized guest speakers and holiday events for 200 people
+
+Sample Science, Computer Science and Engineering Resumes – Rev 05/15
+Smith College Lazarus Center for Development
+
+ALYSSA JACKSON
+
+121 Southridge Road, Springfield, MA 01118
+(413) 244-1321 al_jackson@gmail.com
+
+EDUCATION
+Smith College, Northampton, MA
+Bachelor of Arts expected May 2017
+Anticipated Major: Anthropology, Minor: Environmental Science and Policy
+Springfield High School of Science and Technology, Springfield, MA
+
+Graduated June 2013
+
+SKILLS
+GPS: Trimble mapping grade receivers (GEO XM), Trimble Pathfinder Office
+COMPUTER: KaleidaGraph, Stata, Microsoft Office
+LANGUAGE: Conversational Spanish
+RELEVANT EXPERIENCE
+Smith College, Northampton, MA
+Assistant, Spatial Analysis Lab
+2013-present
+ Produce professional-quality digital maps of Smith College campus infrastructure.
+ Help lab staff train students in digital map production, spatial analysis, spatial database generation, and
+GPS field data collection.
+ Develop and produce print training manuals and video guides for GIS and GPS users.
+Pioneer Valley Project, Springfield, MA
+Outreach Worker, Healthy Nail Salon Project
+2011-present
+ Invited to continue work on EPA-funded project after exceeding high school internship expectations.
+ Develop and improve outreach and training materials on hazardous nail care products.
+Baystate Medical Center, Springfield, MA
+Research Assistant
+ Compiled, geocoded, and analyzed databases for child obesity research.
+ Updated and edited Excel database and socio-demographic data layers.
+
+Jan.-Aug. 2013
+
+Center for Sustainable Development Studies, Atenas, Costa Rica
+Study Abroad Student
+June-July 2012
+ Digitized hand-drawn and produced digital land-use/land-cover maps for Costa Rican national and
+municipal governments with use of GPS and field assessment.
+ Assessed biodiversity conservation and land management policies and realities in Costa Rica.
+LEADERSHIP EXPERIENCE
+Pioneer Valley Youth Society, Springfield, MA
+President, June 2012-May 2013 Youth Leader, Sept. 2009-May 2011
+ Oversaw activities and communications of 100-members chapter of international organization.
+ Mentored inner-city youth aged 7-18.
+
+Sample Science, Computer Science and Engineering Resumes – Rev 05/15
+Smith College Lazarus Center for Development
+
+CHRISTINE PHAN
+EDUCATION
+
+Box 0000, 1 Chapin Way, Northampton, MA 01063
+612.685.3964 | c1phan@smith.edu
+
+Smith College, Northampton, MA -- Bachelor of Arts expected May 2016
+Major: Physics, Minor: Philosophy -- Cumulative GPA: 3.48
+University of St. Andrews, St. Andrews, Scotland -- Junior Year Abroad program, 2014 – 2015
+PUBLICATIONS AND PRESENTATIONS
+Baumgartl, J. et al. including Christine Phan. “Particle Clearing and Trapping using Optically-mediated Airy
+Beams.” Optical Express. (To be published in 2015).
+“Propagation of Orbital Angular Momentum States of Light in Turbulent Media.”
+Symposium on Undergraduate Research DLS Meeting LS-XXIV, Rochester NY, October 2013
+RESEARCH AND TEACHING EXPERIENCE
+Teaching Assistant, Smith College Astronomy Department, Northampton, MA, January 2015 – present
+Held evening lab hours weekly to assist in teaching laboratory material to students in introductory astronomy
+courses. Assisted in solar and night-time telescope observations for Smith faculty, students, and guests.
+Research Intern, University of St Andrews, St. Andrews, Scotland, August 2014 – February 2015
+Developed optimized process for particle clearing and trapping using optically-mediated Airy beams. Wrote
+LabVIEW program with user interface that controlled experimental parameters. Conducted experiments using
+program, and employed MATLAB for data analysis. Results showed that Airy beams successfully manipulated
+micro-particles. Experimental procedure will be applied towards research involving optical sorting of animal
+cells and other biological material.
+Teaching Assistant, Smith College Physics Department, Northampton, MA, January 2013 – May 2014
+Tutored students in a 3rd-year course, Thermal Physics, on a weekly basis. Helped students prepare for exams
+and homework assignments by going over concepts in thermal physics, statistical mechanics, and introductory
+physics. Graded problem sets for General Physics I, General Physics II, and Modern Physics I.
+Research Intern, University of Rochester REU Program, Rochester, NY, June 2013 – August 2014
+Researched adaptive optics and orbital angular momentum (OAM) states of light for a summer REU project.
+Set-up and performed several experiments to characterize the propagation of OAM states through turbulent
+media. Wrote LabVIEW and MATLAB programs for data collection and analysis. Data suggested that OAM
+states are good candidates for quantum cryptography.
+GRANTS
+Awarded NSF research grant, 2014
+TECHNICAL SKILLS
+Mathematica, LabVIEW, LaTeX, MS Office, JavaScript, MATLAB, , Adobe Illustrator, Adobe Photoshop
+CO-CURRICULAR EXPERIENCE
+Member, Smith College Ultimate Frisbee, 2013 – present
+Sample Science, Computer Science and Engineering Resumes – Rev 05/15
+Smith College Lazarus Center for Development
+
+Samantha Fellows
+Box 0000, 1 Chapin Way, Northampton, MA 01063; (303)-230-5551, slfellows@smith.edu
+Education
+Smith College, Northampton, MA
+Major: Sociology, Minor: Economics
+
+BA degree May 2015
+
+Related Courses: Biology, Organic Chemistry, Inorganic Chemistry, Calculus, Physics, Medical Sociology,
+Qualitative Research Methods
+Edwin O. Smith High School, Storrs, CT
+
+Graduated June 2011
+
+Laboratory Skills
+Chemistry techniques include: visible spectroscopy (Hewlett Packard and Ocean Optics Diode Array
+Spectrometers); IR and NMR spectroscopy; GC-MS; TLC; titration; calorimetry; synthesis: separation and
+purification (degradation, recrystalization, extraction, filtration, distillation).
+Biology: Experience with dissection (fetal pig, cat); chromatography; DNA isolation and fingerprinting by PCR;
+DNA and protein synthesis; enzyme kinetics ; EKG (ECG); light microscope experience.
+Additional Experience
+Treasurer and Secretary, Cutter Dormitory Council, Smith College, 2013-2015
+Planned and administered $1400 budget for 80-student residence. Attended weekly Council meetings. Cofacilitated monthly house meetings. Kept records of House activities, dues and budget.
+Advisory Board Liaison, Counseling Services, Smith College, 2013
+Address and report on student mental health concerns.
+Co-Chair, Mental Health Support Group, Smith College, 2014
+Facilitate support group, providing safe environment for students to discuss problems.
+Administrative Assistant, Dr. Schmitt, Pediatrician, Storrs, CT, 2011-2012
+Perform general office work: billing, filing, data entry. Some experience shadowing doctor.
+Tennis Instructor/Camp Counselor, 2011-2012
+Child Care Provider, 2008-2011
+Activities and Interests
+Community Service: Service Organizations of Smith (SOS), 2012; Healthy Heads (mental health advocacy),
+2012; Nursing Home Volunteer, 2009-2010; Special Olympics Volunteer, 2008-2010
+Athletics: Smith College JV Tennis; Varsity Tennis Grades 9-12, Captain 12, Coaches Award 10; AllConference Academic Team (tennis)
+Additional Awards: Daughters of the American Revolution Good Citizen 2011; Superintendent’s Award 2011
+(given to two students in graduating class); Club President’s Award (Keyettes, Community Service Group) 2010
+Languages: Fluent in French
+Computer Proficiency: Microsoft Word, basic Excel and Data Studio proficiency, ISIS Draw
+Sample Science, Computer Science and Engineering Resumes – Rev 05/15
+Smith College Lazarus Center for Development
+
+Elizabeth Mitchell
+
+(505) 332-7988 liz.mitchell.11@gmail.com
+www.lmmitchelldesign.net www.linkedin.com/in/emmitchell
+
+Education
+Smith College, Northampton, MA
+Dean's List: 2011-2014
+
+Bachelor of Arts received May 2014
+
+Major: Computer Science
+
+King's College, University of London, UK
+Spring Semester Study Abroad 2013
+Completed coursework in Computer Science and Foreign Language
+
+Technical Summary
+Python, Java, Assembly Language, HTML, OpenGL, Pure Data, POVRay, Csound, PHP, Photoshop,
+Dreamweaver, Illustrator, Audacity, 3D StudioMax, Reaper, AutoCad, Blender, Windows, Mac, Linux experience
+
+Experience
+Webmaster, Web Designer, Writer MusicSquared (Jan 2014 - present) http://musicsquared.net
+ Designed and produced original layouts for multi-part webzine created in partnership with a translator for
+publication of original articles and translations centering on the Japanese music scene and its
+surrounding subcultures
+ Handled email and other internet correspondence with readers and industry representatives for
+promotion, press arrangements, and site-related inquiries
+ Perform article research, conduct fan and artist interviews, and review performances and artist recordings
+Tech Support and Lab Assistant Smith College Educational Technology Services (Sept 2012 - May 2014)
+ Aided lab patrons with multimedia production on Windows 8, XP and Mac OS X computers
+ Provided on-site troubleshooting and classroom support for professors and faculty who gave Technologyassisted lectures and presentations
+ Assisted supervisors with projects such as developing interactive French learning software and organizing
+computer based curriculum material for classes
+ Responded to all phone calls and in-person questions presented at the help desk with appropriate
+answers or re-direction
+Production Intern, Web Design Metamorphoses Journal of Literary Translation (June 2012 - Aug 2012)
+ Designed and created new graphic interface for existing website based on requested themes
+ Cleaned and edited HTML code developed by previous webmaster
+ Updated information for latest journal publications
+ Analyzed translations for quality and accuracy
+ Copy-edited submissions chosen for publication
+
+Sample Science, Computer Science and Engineering Resumes – Rev 05/15
+Smith College Lazarus Center for Development
+
+Monica Smith
+1 Chapin Way, 1234, Northampton, MA 01063 * msmith@smith.edu
+413.555-1212
+
+EDUCATION
+Smith College, Northampton, MA
+Bachelor of Arts in Computer Science, expected graduation: May 2016
+Relevant Coursework:
+Introductory Python, Circuit Theory, Mechanics, Strength of Materials, Thermodynamics, Calculus I,
+Calculus II, Programming with Data Structures, Computer Graphics, Linear Algebra, Advanced
+Programming Technique, Algorithms, Discrete Mathematics, Microprocessors and Assembly
+Language, Theoretical Foundations, Mobile and Locative Computing.
+SKILLS
+Technical: Python, Java, Django, Mathematica, HTML, and OpenGL
+Languages: Conversational Spanish
+EXPERIENCE
+Smith College, Computer Science Department – Teaching Assistant (Sept – present)
+
+
+
+Teaching assistant for Introduction to Programming using python (CSC 111)
+Help students with question they may have regarding homework, lab, and programming concepts
+
+Serious Technology, Weymouth, MA- Django Web Development Intern (June – present)
+
+
+
+Built a timesheet application to log hours of work, run reports on time spent on a specific project, and
+added QuickBooks exporting feature.
+Working on fixing bugs for customers and adding features upon request
+
+Smith Undergraduate Research Fellowship (SURF) Research Student (Summer 2014)
+Project: Computational Infrastructure For Predicting Auxetic Behavior in Crystalline Materials (funded
+by NSF)
+
+
+
+Currently working on developing a GUI using PHP and Jmol (Java Molecular visualizer) to integrate
+into the Kinari software.
+GUI will help predict if the any of the observed crystalline structures exhibit Auxetic behavior
+
+Summer Science and Engineering Program - Robotics Teaching Assistant
+
+
+
+
+
+
+Office of Non-degree Programs, Smith College (Jul-Aug 2013)
+Robotics course focused on the basic structure of programming through the use of LEGO
+MINDSTORMS
+The course allowed students to understand the engineering design cycle
+Helped prepare course material
+Taught students how create their own web pages using HTML and JavaScript
+
+Sample Science, Computer Science and Engineering Resumes – Rev 05/15
+Smith College Lazarus Center for Development
+
+
