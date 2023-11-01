@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Resume Processing</title>
+</head>
+<body>
+    <h1>Resume Processing</h1>
+
+    <!-- Create a form to input user data -->
+    <form id="resumeForm" method="POST" action="/process" enctype="multipart/form-data">
+        <label for="profile">Desired Profile:</label>
+        <input type="text" id="profile" name="profile" required><br>
+
+        <label for="userId">User ID:</label>
+        <input type="text" id="userId" name="userId" required><br>
+
+        <label for="resumes">Upload Resumes (PDF only):</label>
+        <input type="file" id="resumes" name="resumes" accept=".pdf" multiple required><br>
+
+        <label for="tags">Tags:</label>
+        <input type="text" id="tags" name="tags"><br>
+
+        <label for="jobDescription">Job Description:</label>
+        <textarea id="jobDescription" name="jobDescription" rows="4"></textarea><br>
+
+        <input type="submit" id="submitBtn" value="Process Resumes">
+    </form>
+
+    <div id="resultContainer"></div>
+
+    <script>
+        // Add a submit event handler to the form
+        document.getElementById("resumeForm").addEventListener("submit", function (event) {
+            event.preventDefault(); // Prevent the default form submission
+    
+            var formData = new FormData(this);
+    
+            // Send a POST request to the server
+            fetch("/process", {
+                method: "POST",
+                body: formData,
+            })
+            .then((response) => response.json())
+            .then((data) => {
+                // Display the results in the resultContainer
+                document.getElementById("resultContainer").textContent = JSON.stringify(data, null, 2);
+            })
+            .catch((error) => {
+                console.error("Error:", error);
+            });
+        });
+    </script>
+</body>
+</html>
