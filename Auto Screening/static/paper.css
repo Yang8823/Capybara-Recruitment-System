@@ -1,0 +1,112 @@
+/* Center the body content */
+body {
+  background-image: url("./static/geometry2.png");
+  font-family: Arial, sans-serif; /* Specify your preferred font stack here */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+/* Increase the size of the title */
+h1 {
+  color: #007BFF; /* Change the text color to a vibrant blue */
+  font-size: 48px; /* Increase the font size */
+  text-align: center; /* Center the title text */
+  margin-bottom: 20px; /* Add space below the title */
+}
+
+/* Center the subtitle */
+h3 {
+  color: #555; /* Change the text color as needed */
+  font-size: 24px; /* Increase the font size for the subtitle */
+  text-align: center; /* Center the subtitle text */
+  margin-bottom: 30px; /* Add more space below the subtitle */
+}
+
+/* Style the form group textarea */
+.form-group textarea {
+  width: 100%; /* Make the textarea full-width */
+  height: 120px;
+  border: 1px solid #ccc;
+  padding: 10px;
+  font-size: 16px; /* Adjust the font size */
+  border-radius: 5px;
+  box-shadow: 0 0 5px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow */
+  resize: vertical; /* Allow vertical resizing */
+  margin-bottom: 20px; /* Add space below the textarea */
+}
+
+/* Style the upload button */
+#upload_button {
+  display: inline-block;
+  margin: 10px 0;
+}
+
+/* Style the result div */
+#resultdiv {
+  display: none;
+  margin-top: 20px;
+  margin-bottom: 20px; /* Add space above and below the result div */
+}
+
+/* Style the to-top link */
+.to-top a {
+  font-size: 24px;
+  color: #007BFF;
+  text-decoration: none;
+  display: block; /* Make it a block-level element for better spacing */
+  margin-top: 20px; /* Add space above the to-top link */
+}
+
+/* Style the select element */
+select {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  font-size: 16px;
+  margin-bottom: 20px; /* Add space below the select element */
+}
+
+/* Style the submit button */
+button[type="submit"] {
+  background-color: #007BFF;
+  color: #fff;
+  padding: 15px 30px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: background-color 0.3s ease;
+}
+
+button[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+form {
+  margin: 20px;
+}
+
+/* Style the sidebar */
+.col.sidebar {
+  background-color: #f4f4f4;
+  padding: 20px;
+  text-align: center;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  margin-left: 20px; /* Add space between the main content and the sidebar */
+}
+
+h1 {
+  font-size: 90px;
+}
+.resu {
+  font-size: 50px
+}
+/* Additional styles can be added as needed */
+
+/* Media queries for responsive design can also be added */
