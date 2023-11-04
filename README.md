@@ -12,6 +12,9 @@ Eajun: CV Image Processing Screening
 Leon: CV Rating System
 
 ## Reference:
+### Flask to React
+https://www.youtube.com/watch?v=7LNl2JlZKHA
+
 ### Chatbot:
 Finetune Falcon 7b/40b instruct with your own data
 https://www.youtube.com/watch?v=Q9zv369Ggfk&ab_channel=AIJason
