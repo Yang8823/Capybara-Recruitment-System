@@ -98,7 +98,6 @@ function resetResult(){
         </div>
         <div class="section">
 
-            {% if session.logged_in %}
       
 	<div id="formdiv">
    <br>
@@ -111,7 +110,7 @@ function resetResult(){
 
      {% for r in results :%}
        <option value = '{{r.name}}'>{{r.name}}</option>
-     
+        
      {% endfor %}
 
      </select>
@@ -121,7 +120,6 @@ function resetResult(){
 </form>
 </div>
 
-{% endif %}
 
 
 
